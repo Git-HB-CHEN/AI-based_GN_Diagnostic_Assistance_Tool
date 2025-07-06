@@ -1,0 +1,1 @@
+Given the large size of the light microscopy samples required for model inference, it is not feasible to store them on GitHub. These data will be made accessible via Google Drive following the acceptance of the manuscript.
