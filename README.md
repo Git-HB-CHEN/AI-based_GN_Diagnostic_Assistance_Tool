@@ -25,14 +25,9 @@ This repository provides the official implementation of AI-based_GN_Diagnostic_A
 An AI-based GN diagnostic assistance tool is developed and the diagnostic pipeline comprises three sequential steps: glomerulus segmentation, glomerulus lesion feature extraction and patient-level diagnosis.
 
 The tool consists of three core components: 
-
 (1) a glomerular localization module for precise glomerulus segmentation;       
-
 (2) two multi-classification module for identifying glomerular lesions; 
-
 (3) a patient-level classification module for diagnosing four GN subtypes.
-
-
 
 
 ## ✨Installation & Preliminary
@@ -46,7 +41,7 @@ The tool consists of three core components:
     ```
     conda create -n GNDAT python=3.9
     conda activate GNDAT
-```
+   ```
     
 3. Install Pytorch and torchvision.
    (You can follow the instructions [here](https://pytorch.org/get-started/locally/))
